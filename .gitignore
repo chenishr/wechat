@@ -1,0 +1,6 @@
+
+#	忽略 Runtime/ 下面的文件
+Runtime/
+
+# 忽略 VIM 缓存文件
+*swp
